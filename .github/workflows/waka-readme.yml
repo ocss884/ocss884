@@ -17,4 +17,4 @@ jobs:
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
           #REPOSITORY: <ocss884/ocss884>
-          #TIME_RANGE: all_time
+          TIME_RANGE: all_time
