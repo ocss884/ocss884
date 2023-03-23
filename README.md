@@ -6,4 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=ocss884&color=brightgreen)
 
 <!--START_SECTION:waka-->
+
+```text
+Python     53 mins         █████████████████▒░░░░░░░   68.97 %
+JSON       14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+Markdown   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+```
+
 <!--END_SECTION:waka-->
