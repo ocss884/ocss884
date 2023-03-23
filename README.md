@@ -14,3 +14,6 @@ Markdown   9 mins          ███░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p align="center">
+   <img src="https://github.com/ocss884/ocss884/tree/output/github-snake.svg" alt="snake">
+</p>
